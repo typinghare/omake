@@ -4,6 +4,14 @@ OMake is a simple build automation tool designed to simplify the process of comp
 
 ## Install
 
+### Prerequisites
+
+Before installing OMake, you must have Node.js installed on your system. Node.js is a crucial component as it provides the runtime environment for OMake. There are already many tutorials for installing Node.js online.
+
+If you are a macOS user, I recommend you installing Node.js using [Homebrew](https://brew.sh).
+
+### Install OMake with NPM
+
 To install OMake, open your terminal and run the following command:
 
 ~~~bash
