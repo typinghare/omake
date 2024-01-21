@@ -81,3 +81,7 @@ hello = src
 ~~~
 
 In this case, OMake will scan the src directory and automatically add all `.ml` files it finds.
+
+## License
+
+Licensed under MIT.
